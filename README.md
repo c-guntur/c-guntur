@@ -3,7 +3,7 @@
 ## About Me
 
 * Java Champion
-* (https://www.jcp.org)[JCP] Executive Committee Represtative
+* [JCP](https://www.jcp.org) Executive Committee Represtative
 * Programming in Java since 1998
 * JUG Leader (https://twitter.com/GardenStateJUG)[@GardenStateJUG] & (https://twitter.com/NYJavaSIG)[@NYJavaSIG]
 * Ardent (https://cguntu.me)[blogger] and (https://twitter.com/CGuntur)[tweeter]
