@@ -3,10 +3,10 @@
 ## About Me
 
 * Java Champion
-* JCP Executive Committee Represtative
+* (https://www.jcp.org)[JCP] Executive Committee Represtative
 * Programming in Java since 1998
-* JUG Leader @GardenStateJUG & @NYJavaSIG
-* Ardent blogger and tweeter
+* JUG Leader (https://twitter.com/GardenStateJUG)[@GardenStateJUG] & (https://twitter.com/NYJavaSIG)[@NYJavaSIG]
+* Ardent (https://cguntu.me)[blogger] and (https://twitter.com/CGuntur)[tweeter]
 * Saganist (with a ‘g’ not a ‘t’) 😈
 
 ## &#x1f4c8; GitHub Stats
