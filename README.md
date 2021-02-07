@@ -61,6 +61,4 @@ This repository shares the evolution of algebra and algebraic data types in Java
 [![Website](https://img.shields.io/badge/Website-cguntur.me-informational?style=flat-square&logo=jekyll&logoColor=white)](https://cguntur.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cguntur-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cguntur/)
 [![Twitter](https://img.shields.io/badge/Twitter-cguntur-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/cguntur/)
-
-
-
+[![SpeakerDeck](https://img.shields.io/badge/Speakerdeck-cguntur-active?style=flat-square&logo=speakerdeck&logoColor=white)](https://www.speakerdeck.com/cguntur/)
