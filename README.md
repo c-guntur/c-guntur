@@ -27,27 +27,25 @@ My speaking abstracts, bio and picture for talks are all available at:
 
 <p/>
 
-<a href="https://github.com/c-guntur/current-abstracts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=current-abstracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="140" width="400"/></a>
-
-<p/>
+<a href="https://github.com/c-guntur/current-abstracts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=current-abstracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
 
 ## &#x1F4CB; Active Repos
 
 ### Java Katas
 
-<a href="https://github.com/c-guntur/java-katas"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=java-katas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="140" width="400"/></a>  <p/>
+<a href="https://github.com/c-guntur/java-katas"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=java-katas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
 
 Java Katas is a repository of code katas to learn Java.
 
 ### Paneer Tikka Masala
 
-<a href="https://github.com/c-guntur/paneer-tikka-masala"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=paneer-tikka-masala&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="140" width="400"/></a>  <p/>
+<a href="https://github.com/c-guntur/paneer-tikka-masala"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=paneer-tikka-masala&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
 
 This repository shares a cooking recipe used as a means to learn the `CompletableFuture` API in Java.
 
 ### Algebraic in Java
 
-<a href="https://github.com/c-guntur/algebraic-in-java"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=algebraic-in-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="140" width="400"/></a>  <p/>
+<a href="https://github.com/c-guntur/algebraic-in-java"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=algebraic-in-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
 
 This repository shares the evolution of algebra and algebraic data types in Java.
 
