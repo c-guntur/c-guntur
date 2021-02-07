@@ -9,13 +9,15 @@
 
 <p/>
 
+## &#x1F3A4; Speaking Engagements
+
 My speaking abstracts, bio and picture for talks are all available at: 
 <a href="https://github.com/c-guntur/current-absctracts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=current-absctracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 <p/>
 
-## Active Repos
+## &#x1F4CB; Active Repos
 
 <a href="https://github.com/c-guntur/java-katas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=java-katas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
