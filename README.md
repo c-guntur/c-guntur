@@ -13,18 +13,18 @@
 
 My speaking abstracts, bio and picture for talks are all available at: 
 <a href="https://github.com/c-guntur/current-abstracts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=current-abstracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="115" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=current-abstracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="125" />
 
 <p/>
 
 ## &#x1F4CB; Active Repos
 
 <a href="https://github.com/c-guntur/java-katas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=java-katas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="115" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=java-katas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="125" />
 </a>
 
 
 <a href="https://github.com/c-guntur/paneer-tikka-masala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=paneer-tikka-masala&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="115" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=paneer-tikka-masala&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height="125" />
 </a>    
 
