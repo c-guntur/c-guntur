@@ -1,3 +1,14 @@
+# Chandra's GitHub
+
+## About Me
+
+* Java Champion
+* JCP Executive Committee Represtative
+* Programming in Java since 1998
+* JUG Leader @GardenStateJUG & @NYJavaSIG
+* Ardent blogger and tweeter
+* Saganist (with a ‘g’ not a ‘t’) 😈
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/c-guntur/c-guntur">
@@ -44,6 +55,12 @@ This repository shares a cooking recipe used as a means to learn the `Completabl
 
 This repository shares the evolution of algebra and algebraic data types in Java.
 
+
+## Social Media
+
+[![Website](https://img.shields.io/badge/Website-cguntur.me-informational?style=flat-square&logo=jekyll&logoColor=white)](https://cguntur.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cguntur-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cguntur/)
+[![Twitter](https://img.shields.io/badge/Twitter-cguntur-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/cguntur/)
 
 
 
