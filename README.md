@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/c-guntur/c-guntur">
@@ -10,5 +7,22 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-guntur&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css&theme=material-palenight" alt="Chandra's GitHub Stats" />
 </a>
 
+<p/>
 
+My speaking abstracts, bio and picture for talks are all available at: 
+<a href="https://github.com/c-guntur/current-absctracts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=current-absctracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<p/>
+
+## Active Repos
+
+<a href="https://github.com/c-guntur/java-katas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=java-katas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/c-guntur/paneer-tikka-masala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=paneer-tikka-masala&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
