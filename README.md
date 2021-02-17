@@ -6,7 +6,7 @@
 * [JCP](https://www.jcp.org) Executive Committee Representative
 * Programming in Java since 1998
 * JUG Leader [@GardenStateJUG](https://twitter.com/GardenStateJUG) & [@NYJavaSIG](https://twitter.com/NYJavaSIG)
-* Ardent [blogger](https://cguntu.me) and [tweeter](https://twitter.com/CGuntur)
+* Ardent [blogger](https://cguntur.me) and [tweeter](https://twitter.com/CGuntur)
 * Saganist (with a ‘g’ not a ‘t’) 😈
 
 ## &#x1f4c8; GitHub Stats
