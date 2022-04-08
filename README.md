@@ -37,6 +37,12 @@ My speaking abstracts, bio and picture for talks are all available at:
 
 Java Katas is a repository of code katas to learn Java.
 
+### Project Amber
+
+<a href="https://github.com/c-guntur/project-amber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=project-amber&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
+
+This repository shares enhancements previously brought to, and expected from Project Amber.
+
 ### Paneer Tikka Masala
 
 <a href="https://github.com/c-guntur/paneer-tikka-masala"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c-guntur&repo=paneer-tikka-masala&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
